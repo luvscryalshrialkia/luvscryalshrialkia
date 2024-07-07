@@ -1,0 +1,1 @@
+const newName = columns[1];    const country = columns.slice(2).join(" ");    // Extract IP and p
