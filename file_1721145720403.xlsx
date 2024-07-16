@@ -1,0 +1,1 @@
+  await forceWait(getRandomNumber(waitMin, waitMax, 1) * 1000)}//滚鼠标async function waitThenScro
