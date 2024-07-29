@@ -1,0 +1,1 @@
+rtIndex, length);}module.exports = {  readRandomFileAndExtractRandomString,  generateRandomFile
