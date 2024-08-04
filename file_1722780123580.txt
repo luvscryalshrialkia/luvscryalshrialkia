@@ -1,0 +1,1 @@
+mmonLib.moveClickThenWait("确认Commit Changes", 793, 645, 5, 7)  console.log("结束-------------选择第一个项目
