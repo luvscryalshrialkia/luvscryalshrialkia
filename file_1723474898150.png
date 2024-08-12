@@ -1,0 +1,1 @@
+   // Format the date string  const dateString = `${year}-${month}-${day}`;    return dateString
