@@ -1,0 +1,1 @@
+ copyClipboard(name, pointA, pointB, pointC, pointD) {  robot.moveMouseSmooth(pointA, pointB)  rob
